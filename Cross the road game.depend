@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1590785834 source:c:\users\user\desktop\programs\cross the road game\cgame.cpp
+	"cGame.h"
+
+1590785594 c:\users\user\desktop\programs\cross the road game\cgame.h
+	<iostream>
+	<vector>
+	<conio.h>
+	<ctime>
+	"cPlayer.h"
+	"cLane.h"
+
+1590786209 source:c:\users\user\desktop\programs\cross the road game\clane.cpp
+	"cLane.h"
+
+1590786209 c:\users\user\desktop\programs\cross the road game\clane.h
+	<iostream>
+	<deque>
+
+1590784831 source:c:\users\user\desktop\programs\cross the road game\cplayer.cpp
+	"cPlayer.h"
+
+1590784716 c:\users\user\desktop\programs\cross the road game\cplayer.h
+	<iostream>
+
+1590785594 source:c:\users\user\desktop\programs\cross the road game\main.cpp
+	"cGame.h"
+
+1590785834 source:g:\c++ projects\cross the road game\cgame.cpp
+	"cGame.h"
+
+1590785594 g:\c++ projects\cross the road game\cgame.h
+	<iostream>
+	<vector>
+	<conio.h>
+	<ctime>
+	"cPlayer.h"
+	"cLane.h"
+
+1590784716 g:\c++ projects\cross the road game\cplayer.h
+	<iostream>
+
+1590786209 g:\c++ projects\cross the road game\clane.h
+	<iostream>
+	<deque>
+
+1590786209 source:g:\c++ projects\cross the road game\clane.cpp
+	"cLane.h"
+
+1590784831 source:g:\c++ projects\cross the road game\cplayer.cpp
+	"cPlayer.h"
+
+1590786327 source:g:\c++ projects\cross the road game\main.cpp
+	"cGame.h"
+
